@@ -1,5 +1,5 @@
 # IEEE754-Calculator
-First Somewhat Useful Java Project made in December 2020. 
+First Somewhat Useful Java Project made in December 2020. This was also before I learned data structures & algorithms, so please forgive the naive approaches in some of my code.
 
 This is a IEEE-754 floating point calculator, which converts any bit format to IEEE754 floating point (it is not limited to only single and double precision formats).
 It can convert a number from Hex to Decimal, and from Decimal to Hex. It also shows all of the intermediate steps to get to the answer, for students who would need this tool to check their work (EX: for a Intro to Computer Organization class).
