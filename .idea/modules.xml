@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JobProjects.iml" filepath="$PROJECT_DIR$/JobProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-15.0.1/javafx-sdk-15.0.1.iml" filepath="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-15.0.1/javafx-sdk-15.0.1.iml" />
+    </modules>
+  </component>
+</project>
